@@ -17,7 +17,7 @@ Welcome to my repository! This project documents my step-by-step journey learnin
 
 ### Phase 1: Simple Logic & Conditions
 * **What I learned**: How to take input from a user, store data in a variable, and make decisions using basic conditional statements (if-else).
-* **How it works**: I started with a fixed secret number (74), asked the user to guess it once, and checked if they got it right or wrong.(https://github.com/vishva-baskar/Mystery-Number-Guessing-Game-Using-Python/blob/main/Phase%201.ipynb)
+* **How it works**: I started with a fixed secret number (74), asked the user to guess it once, and checked if they got it right or wrong.
 
 ### Phase 2: Introducing Loops (Repetition)
 * **What I learned**: How to avoid writing repetitive code by using loops when tasks need to run multiple times.
